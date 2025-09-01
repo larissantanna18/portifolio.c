@@ -1,17 +1,14 @@
-# portifolio.c
-# Portfólio de Larissa dos Santos
+# Portfólio em C 💻
 
-👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedora de Software | Projetos em C, Power BI e Banco de Dados  
-🚀 Apaixonada por tecnologia, aprendizado contínuo e inovação  
+Bem-vindo ao meu portfólio! Aqui compartilho projetos desenvolvidos durante minha jornada em **Análise e Desenvolvimento de Sistemas**.
 
----
+## 🚀 Projetos
 
-## 📌 Projetos
+### 1. CartasCidades
+Um jogo estilo *Super Trunfo*, feito em linguagem C, para praticar estruturas básicas como variáveis, entrada e saída de dados.
 
-### 🏙️ [Cartas de Cidades em C](./CartasCidades/README.md)
-Programa em C que cadastra e exibe informações de duas cidades.  
-Tecnologias: C, entrada e saída padrão.  
-
----
-Mais projetos em breve...
+**Como executar:**
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/larissantanna18/portifolio.c
+  
