@@ -1,14 +1,45 @@
-# Portfólio em C 💻
+# Portfólio em C 
 
-Bem-vindo ao meu portfólio! Aqui compartilho projetos desenvolvidos durante minha jornada em **Análise e Desenvolvimento de Sistemas**.
+💻 Bem-vindo ao meu portfólio! Aqui compartilho projetos desenvolvidos durante minha jornada em **Análise e Desenvolvimento de Sistemas**.
+ ---
+## 🚀 Projetos 
+CartasCidades - Um jogo estilo *Super Trunfo* (nível novato), feito em linguagem C, para praticar estruturas básicas como variáveis, entrada e saída de dados. 
 
-## 🚀 Projetos
+**Como executar:** 
 
-### 1. CartasCidades
-Um jogo estilo *Super Trunfo*, feito em linguagem C, para praticar estruturas básicas como variáveis, entrada e saída de dados.
+Clone este repositório:
+bash
+git clone https://github.com/larissantanna18/portfolio-c.git
 
-**Como executar:**
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/larissantanna18/portifolio.c
-  
+Entre na pasta do projeto:
+
+cd portfolio-c/CartasCidades/scr
+
+Compile o código:
+
+gcc cartas.c -o jogo
+
+Execute o programa:
+
+./jogo
+
+👩‍💻 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia.
+Atualmente praticando C, Banco de Dados e iniciando estudos em Gestão de Projetos de TI.
+
+📬 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/larissa-dos-santos-aa783823a)
+- [GitHub](https://github.com/larissantanna18) 
+- [E-mail](larissantanna18@gmail.com)
+
+🛠 Tecnologias
+
+- Linguagem C
+
+- SQL (Banco de Dados)
+
+- Power BI
+
+- Gestão de Projetos (em aprendizado)
