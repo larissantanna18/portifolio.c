@@ -7,19 +7,20 @@ CartasCidades - Um jogo estilo *Super Trunfo* (nível novato), feito em linguage
 
 **Como executar:** 
 
-Clone este repositório:
+- Clone este repositório:
 bash
-git clone https://github.com/larissantanna18/portfolio-c.git
+git clone [https://github.com/larissantanna18/portfolio.c]
 
-Entre na pasta do projeto:
+
+- Entre na pasta do projeto:
 
 cd portfolio-c/CartasCidades/scr
 
-Compile o código:
+- Compile o código:
 
 gcc cartas.c -o jogo
 
-Execute o programa:
+- Execute o programa:
 
 ./jogo
 
