@@ -5,12 +5,7 @@
 ## 🚀 Projetos 
 CartasCidades - Um jogo estilo *Super Trunfo* (nível novato), feito em linguagem C, para praticar estruturas básicas como variáveis, entrada e saída de dados. 
 
-**Como executar:** 
-
-- Clone este repositório:
-bash
-git clone [https://github.com/larissantanna18/portfolio.c]
-
+**Como executar:**
 
 - Entre na pasta do projeto:
 
